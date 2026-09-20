@@ -36,8 +36,8 @@ Constraints:
 
 /*
 Program to implement Reverse a String
-Developed by: PRIDEESH M
-Register Number: 212223040154
+Developed by: LOKESHVARAN S
+Register Number: 212223040105
 */
 
 import java.util.*;
